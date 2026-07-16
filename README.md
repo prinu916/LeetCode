@@ -2,7 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Priyanshu Singh's LeetCode Journey
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+LeetCode+Repository!;Solving+DSA+Problems+Every+Day+🚀;Consistency+%3E+Perfection;Preparing+for+Top+Tech+Companies+💻" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+LeetCode+Repository!;Solving+DSA+Problems+Every+Day;Consistency+%3E+Perfection;Preparing+for+Top+Tech+Companies" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode">
