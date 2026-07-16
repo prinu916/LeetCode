@@ -276,6 +276,7 @@ LeetCode/
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prinu916/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prinu916/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/prinu916/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prinu916/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prinu916/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -433,6 +434,7 @@ LeetCode/
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
