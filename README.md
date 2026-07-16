@@ -106,17 +106,7 @@ LeetCode/
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prinu916&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prinu916&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinu916&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=prinu916&theme=tokyonight" />
 </p>
 
 ---
@@ -157,6 +147,7 @@ LeetCode/
 
 ### ⭐ If you like this repository, don't forget to Star it!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Happy+Coding!+💙;Keep+Learning+🚀;Never+Stop+Building+✨"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning;Never+Stop+Building" />
+</p>
 </div>
