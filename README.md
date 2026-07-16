@@ -183,6 +183,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prinu916/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prinu916/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
 |  |
@@ -197,6 +198,7 @@ LeetCode/
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prinu916/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prinu916/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,4 +211,8 @@ LeetCode/
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Sorting
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prinu916/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
