@@ -167,6 +167,7 @@ LeetCode/
 | [1288-remove-covered-intervals](https://github.com/prinu916/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/prinu916/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -263,6 +264,7 @@ LeetCode/
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prinu916/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/prinu916/LeetCode/tree/master/2540-minimum-common-value) |
@@ -376,6 +378,7 @@ LeetCode/
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/prinu916/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prinu916/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/prinu916/LeetCode/tree/master/1840-maximum-building-height) |
