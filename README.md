@@ -471,6 +471,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prinu916/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -518,4 +519,8 @@ LeetCode/
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/prinu916/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
