@@ -159,6 +159,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -189,6 +190,7 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prinu916/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -226,6 +228,7 @@ LeetCode/
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/prinu916/LeetCode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prinu916/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
