@@ -472,6 +472,7 @@ LeetCode/
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/prinu916/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prinu916/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window
 |  |
