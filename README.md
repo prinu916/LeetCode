@@ -1,31 +1,162 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
-## Number Theory
-|  |
-| ------- |
-| [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
-## Array
-|  |
-| ------- |
-| [2906-construct-product-matrix](https://github.com/prinu916/LeetCode/tree/master/2906-construct-product-matrix) |
-| [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
-## Matrix
-|  |
-| ------- |
-| [2906-construct-product-matrix](https://github.com/prinu916/LeetCode/tree/master/2906-construct-product-matrix) |
-| [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
-## Prefix Sum
-|  |
-| ------- |
-| [2906-construct-product-matrix](https://github.com/prinu916/LeetCode/tree/master/2906-construct-product-matrix) |
-| [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
-## Enumeration
-|  |
-| ------- |
-| [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
-<!---LeetCode Topics End-->
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Priyanshu Singh's LeetCode Journey
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+LeetCode+Repository!;Solving+DSA+Problems+Every+Day+🚀;Consistency+%3E+Perfection;Preparing+for+Top+Tech+Companies+💻" />
+
+<p align="center">
+<img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/Language-JAVA-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/prinu916/LeetCode?style=for-the-badge">
+<img src="https://img.shields.io/github/repo-size/prinu916/LeetCode?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/prinu916/LeetCode?style=for-the-badge">
+</p>
+
+</div>
+
+---
+
+# 🚀 About
+
+Welcome to my **LeetCode Repository**.
+
+This repository contains all of my accepted LeetCode solutions uploaded automatically using **LeetHub v2**.
+
+I'm consistently practicing:
+
+- ✅ Data Structures
+- ✅ Algorithms
+- ✅ Problem Solving
+- ✅ Competitive Programming
+- ✅ Interview Preparation
+
+with the goal of becoming a better Software Engineer.
+
+---
+
+# 📚 Topics Covered
+
+- Arrays
+- Strings
+- Hash Maps
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+- Binary Search
+- Dynamic Programming
+- Greedy Algorithms
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Recursion
+- Backtracking
+- Bit Manipulation
+- Math
+
+---
+
+# 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,javascript"/>
+
+</p>
+
+> Currently solving primarily in **JAVA**.
+
+---
+
+# 📈 My Goal
+
+- 🎯 Solve **500+ LeetCode Problems**
+- 🏆 Strengthen DSA Concepts
+- 💼 Crack Product-Based Company Interviews
+- 🚀 Become a Full Stack + Problem Solving Engineer
+
+---
+
+# 📂 Repository Structure
+
+```text
+LeetCode/
+│
+├── 0001-Two-Sum/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── 0020-Valid-Parentheses/
+│   ├── README.md
+│   └── solution.cpp
+│
+├── 0125-Valid-Palindrome/
+│   ├── README.md
+│   └── solution.cpp
+│
+└── ...
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prinu916&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prinu916&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prinu916&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/prinu916/prinu916/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🌟 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/prinu916">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/priyanshu-singh-0b4587349">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:priyanshusingh71163@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like this repository, don't forget to Star it!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Happy+Coding!+💙;Keep+Learning+🚀;Never+Stop+Building+✨"/>
+
+</div>
