@@ -190,6 +190,7 @@ LeetCode/
 | [2784-check-if-array-is-good](https://github.com/prinu916/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3093-longest-common-suffix-queries](https://github.com/prinu916/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prinu916/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prinu916/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/prinu916/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -350,6 +351,7 @@ LeetCode/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/prinu916/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/prinu916/LeetCode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prinu916/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/prinu916/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/prinu916/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -411,4 +413,16 @@ LeetCode/
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/prinu916/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
