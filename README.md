@@ -318,6 +318,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/prinu916/LeetCode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/prinu916/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Depth-First Search
 |  |
@@ -338,4 +339,8 @@ LeetCode/
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/prinu916/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
