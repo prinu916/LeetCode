@@ -358,6 +358,7 @@ LeetCode/
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prinu916/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/prinu916/LeetCode/tree/master/2751-robot-collisions) |
 ## Binary Search
 |  |
@@ -386,6 +387,7 @@ LeetCode/
 | [0061-rotate-list](https://github.com/prinu916/LeetCode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/prinu916/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/prinu916/LeetCode/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prinu916/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/prinu916/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prinu916/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/prinu916/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -416,6 +418,7 @@ LeetCode/
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/prinu916/LeetCode/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prinu916/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
