@@ -159,12 +159,14 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prinu916/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Matrix
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prinu916/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -190,4 +192,20 @@ LeetCode/
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## String
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Greedy
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
