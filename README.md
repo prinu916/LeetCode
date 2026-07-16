@@ -164,6 +164,7 @@ LeetCode/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/prinu916/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/prinu916/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
@@ -364,6 +365,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/prinu916/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prinu916/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/prinu916/LeetCode/tree/master/1840-maximum-building-height) |
