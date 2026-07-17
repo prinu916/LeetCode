@@ -213,6 +213,7 @@ LeetCode/
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prinu916/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prinu916/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/prinu916/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prinu916/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -304,6 +305,7 @@ LeetCode/
 | [3312-sorted-gcd-pair-queries](https://github.com/prinu916/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prinu916/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prinu916/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/prinu916/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -357,6 +359,7 @@ LeetCode/
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prinu916/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/prinu916/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prinu916/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/prinu916/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/prinu916/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/prinu916/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -467,6 +470,7 @@ LeetCode/
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prinu916/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prinu916/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prinu916/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
 |  |
 | ------- |
@@ -509,6 +513,7 @@ LeetCode/
 | [0693-binary-number-with-alternating-bits](https://github.com/prinu916/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prinu916/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prinu916/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -568,4 +573,8 @@ LeetCode/
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/prinu916/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
