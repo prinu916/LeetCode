@@ -350,6 +350,7 @@ LeetCode/
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prinu916/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prinu916/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/prinu916/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -374,6 +375,7 @@ LeetCode/
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/prinu916/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prinu916/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -552,6 +554,7 @@ LeetCode/
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
 | ------- |
