@@ -314,6 +314,7 @@ LeetCode/
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prinu916/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/prinu916/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prinu916/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prinu916/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -354,6 +355,7 @@ LeetCode/
 | [3474-lexicographically-smallest-generated-string](https://github.com/prinu916/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/prinu916/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/prinu916/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prinu916/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/prinu916/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -405,6 +407,7 @@ LeetCode/
 | [2685-count-the-number-of-complete-components](https://github.com/prinu916/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prinu916/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -513,6 +516,7 @@ LeetCode/
 | [2812-find-the-safest-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prinu916/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/prinu916/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -558,6 +562,7 @@ LeetCode/
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Merge Sort
 |  |
 | ------- |
