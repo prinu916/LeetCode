@@ -186,6 +186,7 @@ LeetCode/
 | [1861-rotating-the-box](https://github.com/prinu916/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prinu916/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/prinu916/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prinu916/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/prinu916/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/prinu916/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -283,6 +284,7 @@ LeetCode/
 | [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prinu916/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1980-find-unique-binary-string](https://github.com/prinu916/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/prinu916/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/prinu916/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prinu916/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -352,6 +354,7 @@ LeetCode/
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1980-find-unique-binary-string](https://github.com/prinu916/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prinu916/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/prinu916/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -607,6 +610,7 @@ LeetCode/
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/prinu916/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Combinatorics
 |  |
 | ------- |
