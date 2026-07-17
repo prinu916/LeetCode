@@ -327,6 +327,7 @@ LeetCode/
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prinu916/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/prinu916/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
@@ -344,6 +345,7 @@ LeetCode/
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prinu916/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -616,4 +618,8 @@ LeetCode/
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
