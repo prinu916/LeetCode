@@ -173,6 +173,7 @@ LeetCode/
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prinu916/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prinu916/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prinu916/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prinu916/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prinu916/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -243,6 +244,7 @@ LeetCode/
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prinu916/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prinu916/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/prinu916/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prinu916/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prinu916/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -384,6 +386,7 @@ LeetCode/
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/prinu916/LeetCode/tree/master/1340-jump-game-v) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prinu916/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/prinu916/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
