@@ -348,6 +348,7 @@ LeetCode/
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/prinu916/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prinu916/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
