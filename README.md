@@ -528,6 +528,7 @@ LeetCode/
 | ------- |
 | [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/prinu916/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/prinu916/LeetCode/tree/master/0868-binary-gap) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prinu916/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prinu916/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
