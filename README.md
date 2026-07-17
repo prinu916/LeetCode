@@ -227,6 +227,7 @@ LeetCode/
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/prinu916/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/prinu916/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/prinu916/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prinu916/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -325,6 +326,7 @@ LeetCode/
 | [2751-robot-collisions](https://github.com/prinu916/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/prinu916/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/prinu916/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prinu916/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -343,6 +345,7 @@ LeetCode/
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prinu916/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/prinu916/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prinu916/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/prinu916/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
