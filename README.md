@@ -268,6 +268,7 @@ LeetCode/
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/prinu916/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/prinu916/LeetCode/tree/master/2615-sum-of-distances) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prinu916/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prinu916/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prinu916/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prinu916/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -382,6 +383,7 @@ LeetCode/
 | [2463-minimum-total-distance-traveled](https://github.com/prinu916/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prinu916/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prinu916/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/prinu916/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prinu916/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/prinu916/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
