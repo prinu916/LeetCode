@@ -664,4 +664,8 @@ LeetCode/
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/prinu916/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
