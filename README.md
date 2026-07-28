@@ -390,6 +390,7 @@ LeetCode/
 | [3121-count-the-number-of-special-characters-ii](https://github.com/prinu916/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/prinu916/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/prinu916/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prinu916/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/prinu916/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/prinu916/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/prinu916/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -470,6 +471,7 @@ LeetCode/
 | [2784-check-if-array-is-good](https://github.com/prinu916/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/prinu916/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/prinu916/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prinu916/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prinu916/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/prinu916/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/prinu916/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -664,6 +666,7 @@ LeetCode/
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/prinu916/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/prinu916/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Tree
 |  |
 | ------- |
