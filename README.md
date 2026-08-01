@@ -163,6 +163,7 @@ LeetCode/
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -325,6 +326,7 @@ LeetCode/
 | ------- |
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/prinu916/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prinu916/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -405,6 +407,7 @@ LeetCode/
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/prinu916/LeetCode/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -684,6 +687,7 @@ LeetCode/
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Stack
 |  |
@@ -699,4 +703,8 @@ LeetCode/
 | [1045-customers-who-bought-all-products](https://github.com/prinu916/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1280-students-and-examinations](https://github.com/prinu916/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/prinu916/LeetCode/tree/master/1341-movie-rating) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
