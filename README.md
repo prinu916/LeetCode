@@ -159,6 +159,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -300,6 +301,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
