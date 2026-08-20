@@ -221,6 +221,7 @@ LeetCode/
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prinu916/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prinu916/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prinu916/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/prinu916/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/prinu916/LeetCode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/prinu916/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -396,6 +397,7 @@ LeetCode/
 | [2075-decode-the-slanted-ciphertext](https://github.com/prinu916/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/prinu916/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prinu916/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/prinu916/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/prinu916/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/prinu916/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/prinu916/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
