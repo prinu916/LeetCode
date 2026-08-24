@@ -196,6 +196,7 @@ LeetCode/
 | [1848-minimum-distance-to-the-target-element](https://github.com/prinu916/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/prinu916/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/prinu916/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/prinu916/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prinu916/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prinu916/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -300,6 +301,7 @@ LeetCode/
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prinu916/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/prinu916/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/prinu916/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/prinu916/LeetCode/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/prinu916/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -361,6 +363,7 @@ LeetCode/
 | [1563-stone-game-v](https://github.com/prinu916/LeetCode/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/prinu916/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prinu916/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prinu916/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/prinu916/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -457,6 +460,7 @@ LeetCode/
 | [1563-stone-game-v](https://github.com/prinu916/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/prinu916/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/prinu916/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/prinu916/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/prinu916/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/prinu916/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -783,6 +787,7 @@ LeetCode/
 | [1406-stone-game-iii](https://github.com/prinu916/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prinu916/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/prinu916/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/prinu916/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -790,6 +795,7 @@ LeetCode/
 | [1140-stone-game-ii](https://github.com/prinu916/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prinu916/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prinu916/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/prinu916/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -797,6 +803,7 @@ LeetCode/
 | [1140-stone-game-ii](https://github.com/prinu916/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prinu916/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/prinu916/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/prinu916/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/prinu916/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
