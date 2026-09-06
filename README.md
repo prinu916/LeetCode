@@ -366,6 +366,7 @@ LeetCode/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
+| [0263-ugly-number](https://github.com/prinu916/LeetCode/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
