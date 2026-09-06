@@ -332,6 +332,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/prinu916/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/prinu916/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -372,6 +373,7 @@ LeetCode/
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/prinu916/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/prinu916/LeetCode/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/prinu916/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prinu916/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/prinu916/LeetCode/tree/master/1406-stone-game-iii) |
@@ -849,4 +851,8 @@ LeetCode/
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/prinu916/LeetCode/tree/master/1510-stone-game-iv) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
