@@ -803,6 +803,7 @@ LeetCode/
 | [0178-rank-scores](https://github.com/prinu916/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/prinu916/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prinu916/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/prinu916/LeetCode/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/prinu916/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/prinu916/LeetCode/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/prinu916/LeetCode/tree/master/0601-human-traffic-of-stadium) |
