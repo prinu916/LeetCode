@@ -805,6 +805,7 @@ LeetCode/
 | [0181-employees-earning-more-than-their-managers](https://github.com/prinu916/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/prinu916/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/prinu916/LeetCode/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/prinu916/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/prinu916/LeetCode/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/prinu916/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/prinu916/LeetCode/tree/master/1070-product-sales-analysis-iii) |
