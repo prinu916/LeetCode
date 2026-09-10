@@ -640,6 +640,7 @@ LeetCode/
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/prinu916/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prinu916/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prinu916/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prinu916/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/prinu916/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -785,6 +786,7 @@ LeetCode/
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prinu916/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/prinu916/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting Sort
 |  |
@@ -795,6 +797,7 @@ LeetCode/
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prinu916/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
