@@ -886,4 +886,8 @@ LeetCode/
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/prinu916/LeetCode/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
