@@ -904,5 +904,6 @@ LeetCode/
 ## Concurrency
 |  |
 | ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/prinu916/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/prinu916/LeetCode/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
