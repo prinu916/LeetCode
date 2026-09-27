@@ -462,6 +462,7 @@ LeetCode/
 | [0940-distinct-subsequences-ii](https://github.com/prinu916/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/prinu916/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prinu916/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/prinu916/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -619,6 +620,7 @@ LeetCode/
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prinu916/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/prinu916/LeetCode/tree/master/2751-robot-collisions) |
 ## Binary Search
@@ -915,4 +917,8 @@ LeetCode/
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/prinu916/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/prinu916/LeetCode/tree/master/1226-the-dining-philosophers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
