@@ -458,6 +458,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/prinu916/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/prinu916/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
