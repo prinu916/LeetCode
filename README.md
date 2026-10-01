@@ -345,6 +345,7 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -462,6 +463,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/prinu916/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/prinu916/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/prinu916/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -586,6 +588,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
