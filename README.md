@@ -461,6 +461,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prinu916/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/prinu916/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/prinu916/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
@@ -509,6 +510,7 @@ LeetCode/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prinu916/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prinu916/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
@@ -832,6 +834,7 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prinu916/LeetCode/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/prinu916/LeetCode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prinu916/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -934,6 +937,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prinu916/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prinu916/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prinu916/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
