@@ -468,6 +468,7 @@ LeetCode/
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/prinu916/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prinu916/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -631,6 +632,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prinu916/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
