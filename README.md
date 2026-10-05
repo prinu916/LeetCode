@@ -470,6 +470,7 @@ LeetCode/
 | [0657-robot-return-to-origin](https://github.com/prinu916/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/prinu916/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/prinu916/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prinu916/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -640,6 +641,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prinu916/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prinu916/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prinu916/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -951,6 +953,7 @@ LeetCode/
 | [0022-generate-parentheses](https://github.com/prinu916/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prinu916/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prinu916/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prinu916/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/prinu916/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
