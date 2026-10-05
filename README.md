@@ -161,6 +161,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/prinu916/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/prinu916/LeetCode/tree/master/0283-move-zeroes) |
@@ -653,6 +654,7 @@ LeetCode/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/prinu916/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prinu916/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prinu916/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
