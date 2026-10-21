@@ -164,6 +164,7 @@ LeetCode/
 | [0035-search-insert-position](https://github.com/prinu916/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/prinu916/LeetCode/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prinu916/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/prinu916/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prinu916/LeetCode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/prinu916/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/prinu916/LeetCode/tree/master/0486-predict-the-winner) |
@@ -358,6 +359,7 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prinu916/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/prinu916/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/prinu916/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/prinu916/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -631,6 +633,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/prinu916/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prinu916/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prinu916/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/prinu916/LeetCode/tree/master/0761-special-binary-string) |
