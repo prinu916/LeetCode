@@ -176,6 +176,7 @@ LeetCode/
 | [1140-stone-game-ii](https://github.com/prinu916/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/prinu916/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/prinu916/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/prinu916/LeetCode/tree/master/1306-jump-game-iii) |
@@ -306,6 +307,7 @@ LeetCode/
 | [0835-image-overlap](https://github.com/prinu916/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/prinu916/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/prinu916/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -641,6 +643,7 @@ LeetCode/
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/prinu916/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prinu916/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -777,6 +780,7 @@ LeetCode/
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/prinu916/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/prinu916/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/prinu916/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prinu916/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -790,6 +794,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/prinu916/LeetCode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/prinu916/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prinu916/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -809,6 +814,7 @@ LeetCode/
 | [0301-remove-invalid-parentheses](https://github.com/prinu916/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/prinu916/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/prinu916/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prinu916/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/prinu916/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/prinu916/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/prinu916/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
